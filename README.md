@@ -1,4 +1,4 @@
-# Atividade1ORMWeb2
+# Atividade1 ORM Web 2
 ## Atividade 1 da disciplina de web 2 sobre ORM
 ### Como executar:
  - Crie um banco de dados com nome dbhibernate
